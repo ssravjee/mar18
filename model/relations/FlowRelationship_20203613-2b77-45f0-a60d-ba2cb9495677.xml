@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tokens"
+    id="20203613-2b77-45f0-a60d-ba2cb9495677">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d01bbedd-2b56-490f-8dd2-5752ae3da815.xml#d01bbedd-2b56-490f-8dd2-5752ae3da815"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f375552a-55dc-4f5f-9d5d-4d45901d79f4.xml#f375552a-55dc-4f5f-9d5d-4d45901d79f4"/>
+</archimate:FlowRelationship>
